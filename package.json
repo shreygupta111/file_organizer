@@ -1,0 +1,12 @@
+{
+  "name": "node_proj1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
